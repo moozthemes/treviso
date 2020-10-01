@@ -36,4 +36,4 @@ All other resources and theme elements are licensed under the [GNU GPL](http://w
 
 ==== THEME CHANGELOG ====
 
-coming soon
+Coming soon.
